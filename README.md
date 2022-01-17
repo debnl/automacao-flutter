@@ -40,8 +40,12 @@ Separei esses dois dias apenas para treinar as automações e praticar tudo que 
 
 - **Dia 9** 🌱
 
-No nono dia, quero revisar os códigos (tanto do app quanto da automação) para deixá-los mais limpos, tentando usar as boas práticas do Dart!
+No nono dia, quero revisar os códigos (tanto do app quanto da automação) para deixá-los mais limpos, tentando usar as boas práticas do Dart! *Tempo estimado: 4h*
 
 - **Dia Final** 🌱
 
-Nesse dia, vou garantir que o App e os meus testes estejam rodando e tentar gravar um videozinho ou gif para anexar aqui!
+Nesse dia, vou garantir que o App e os meus testes estejam rodando e tentar gravar um videozinho ou gif para anexar aqui! *Tempo estimado: 4h*}
+
+- **💥 Observações importantes**
+
+Para esse desafio, coloquei 4 horas por dia porque estou de férias, mas claro, isso é moldável com a rotina de cada um. Caso tenha dificuldade para se adaptar, pode me chamar nas minhas redes sociais (linkadas no meu perfil) ou se você for da Iteris, no teams ou no Whats! :)
